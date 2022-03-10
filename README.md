@@ -1,4 +1,4 @@
-# Relogio digital utilizando Javascript
+# Relógio digital utilizando Javascript
 
 * <a href="https://jeanmoissa.github.io/javascript_digital_clock"/>Link para o relógio</a>
 
